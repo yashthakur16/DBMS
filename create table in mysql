@@ -1,0 +1,1 @@
+create table sample(id int primary, Firstname varchar(50), Lastname varchar(50), Age int);
